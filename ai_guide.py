@@ -21,7 +21,7 @@ logging.basicConfig(
 logger = logging.getLogger("ai_guide")
 
 # 设置API密钥
-API_KEY = "AIzaSyAPho0iby74AjaMjcweHZn8Wh4a7HAx87g"  # 您的API密钥
+API_KEY = "AIzaSyAPho0iby74AjaMjcweH"  # 您的API密钥
 
 # 创建客户端
 try:
