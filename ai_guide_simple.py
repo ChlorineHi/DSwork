@@ -19,7 +19,7 @@ logging.basicConfig(
 logger = logging.getLogger("ai_guide_simple")
 
 # 设置API密钥
-API_KEY = "AIzaSyAPho0iby74AjaMjcweHZn8Wh4a7HAx87g"  # 您的API密钥
+API_KEY = "AIzaSyby74AjaMjcweHZn8Wh4a7HAx87g"  # 您的API密钥
 
 # 创建客户端
 client = genai.Client(api_key=API_KEY)
